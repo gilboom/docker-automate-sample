@@ -1,0 +1,22 @@
+{
+  "name": "docker-automate-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q86002618/docker-automate-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/q86002618/docker-automate-sample/issues"
+  },
+  "homepage": "https://github.com/q86002618/docker-automate-sample#readme",
+  "devDependencies": {
+    "@types/node": "^13.9.5"
+  }
+}
